@@ -9,6 +9,7 @@ export class TesteComponent implements OnInit {
   testar(){
     alert("oi");
     alert("tudo bem?")
+    alert("Deus abençoe")
   }
   constructor() { }
 
