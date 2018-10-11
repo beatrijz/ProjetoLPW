@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class TesteComponent implements OnInit {
   testar(){
     alert("oi");
+    alert("tudo bem?")
   }
   constructor() { }
 
